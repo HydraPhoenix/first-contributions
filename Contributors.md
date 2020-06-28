@@ -7,6 +7,7 @@
 - [Marissa Shivers](https://github.com/marissashivers)
 - [Darren Kwong](https://github.com/DeeVine)
 - [Ibrahim AlSaud](https://github.com/ialsaud)
+- [Jac00bv](https://github.com/Jac00bv)
 - [Rtvik Kapoor](https://github.com/the-machine-learner)
 - Imran Sait M - [tiasnarmi](https://github.com/tiasnarmi)
 - [Aubrey Barnes](https://github.com/SeraphicLaw)
